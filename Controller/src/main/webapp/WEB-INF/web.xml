@@ -35,7 +35,7 @@
   </servlet-mapping>
   <welcome-file-list>
     <welcome-file>index.jsp</welcome-file>
-    <welcome-file>www.jsp</welcome-file>
+    <welcome-file>xxx.jsp</welcome-file>
 	
   </welcome-file-list>
 </web-app>
